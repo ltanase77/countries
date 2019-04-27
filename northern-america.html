@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Matei Tanase">
+    <meta name="description" content="small web app about countries around the world">
+    <title>North America</title>
+    <link rel="import" href="header.html" />
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+   	<link href="css/styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<script>
+        var link = document.querySelector('link[rel="import"]');
+        var content = link.import;
+        // Grab DOM from header.html's document.
+        var el = content.querySelector('.nav');
+        document.body.appendChild(el.cloneNode(true));
+     </script>
+    <h1 class="title">North America</h1>
+    <main class="content">
+    	
+    </main>
+    <script>
+        //alert('Salut Matei');
+    </script>
+    </script>
+    <div class="footer">
+            <p>Copyright &copy; 2018 | Developed by: Tănase Matei</p>
+        </div>
+	<script src="javascript/main.js"></script>
+</body>
+</html>

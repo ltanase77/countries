@@ -1,0 +1,1359 @@
+{ "countrycodes":[
+{ 
+  "code": "AF",
+  "name": "Afghanistan",
+  "continent": "Asia",
+  "capital": "Kabul",
+  "surface": "652,230",
+  "population": "26,556,800"
+},
+{ 
+  "code": "AL",
+  "name": "Albania",
+  "continent": "Europe",
+  "capital": "Tirana",
+  "surface": "28,748",
+  "population": "3,564,000"
+},
+{ 
+  "code": "DZ",
+  "name": "Algeria",
+  "capital": "Algiers",
+  "continent": "Africa",
+  "surface":"2381741",
+  "population":"42,200,000"
+},
+{ 
+  "code": "AS",
+  "name": "American Samoa",
+  "continent": "Australia",
+  "capital": "Pago Pago",
+  "surface": "199",
+  "population": "51.504"
+},
+{ 
+  "code": "AD",
+  "name": "Andorra",
+  "continent": "Europe",
+  "capital": "Andorra-la-Vella",
+  "surface": "468",
+  "population": "70,500"
+},
+{ 
+  "code": "AO",
+  "name": "Angola",
+  "continent": "Africa",
+  "capital": "",
+  "surface": "1246700",
+  "population": "25,789,024"
+},
+{ 
+  "code": "AI",
+  "name": "Anguilla",
+  "continent": "North America",
+  "capital": "The Valley",
+  "surface": "91",
+  "population": "14,764"
+},
+{ 
+  "code": "AQ",
+  "name": "Antarctica",
+  "continent": "",
+  "capital": "",
+  "surface": "",
+  "population": ""
+},
+{ 
+  "code": "AG",
+  "name": "Antigua and Barbuda",
+  "continent": "North America",
+  "capital": "St. Jhon's",
+  "surface": "440",
+  "population": "100,963"
+},
+{ 
+  "code": "AR",
+  "name": "Argentina",
+  "continent": "South America",
+  "capital": "Buenos Aires",
+  "surface": "2,780,400",
+  "population": "43,847,430"
+},
+{ 
+  "code": "AM",
+  "name": "Armenia",
+  "continent": "Asia",
+  "capital": "Yerevan",
+  "surface": "29,743",
+  "population": "2,970,495"
+},
+{ 
+  "code": "AW",
+  "name": "Aruba",
+  "continent": "North America",
+  "capital": "Oranjestad",
+  "surface": "178.91",
+  "population": "104,822["
+},
+{ 
+  "code": "AU",
+  "name": "Australia",
+  "continent": "Australia",
+  "capital":"Canberra",
+  "surface":"7,692,024",
+  "population":"23,401,892"
+},
+{ 
+  "code": "AT",
+  "name": "Austria",
+  "continent": "Europe",
+  "capital": "Vienna",
+  "surface": "83,870",
+  "population": "8,180,000"
+},
+{ 
+  "code": "AZ",
+  "name": "Azerbaijan",
+  "continent": "Asia",
+  "capital": "Baku",
+  "surface": "86,600",
+  "population": "9,593,000"
+},
+{ 
+  "code": "BS",
+  "name": "Bahamas",
+  "continent": "North America"
+},
+{ 
+  "code": "BH",
+  "name": "Bahrain",
+  "continent": "Asia",
+  "capital": "",
+  "surface":"765",
+  "population":"1,234,571"
+},
+{ 
+  "code": "BD",
+  "name": "Bangladesh",
+  "continent": "Asia",
+  "capital": "",
+  "surface":"147,570",
+  "population":"149,772,364"
+},
+{ 
+  "code": "BB",
+  "name": "Barbados",
+  "continent": "North America",
+  "capital": "",
+  "surface":"439",
+  "population":"277,821"
+},
+{ 
+  "code": "BY",
+  "name": "Belarus",
+  "continent": "Europe",
+  "capital": "Minsk",
+  "surface": "207,600",
+  "population": "9,608,058"
+},
+{ 
+  "code": "BE",
+  "name": "Belgium",
+  "continent": "Europe",
+  "capital": "Brussels",
+  "surface": "30,528",
+  "population": "11,239,755"
+},
+{ 
+  "code": "BZ",
+  "name": "Belize",
+  "continent": "North America",
+  "capital": "",
+  "surface":"22966",
+  "population":"387,879"
+},
+{ 
+  "code": "BJ",
+  "name": "Benin",
+  "continent": "Africa",
+  "capital": "",
+  "surface":"114763",
+  "population":"10,008,749"
+},
+{ 
+  "code": "BM",
+  "name": "Bermuda",
+  "continent": "North America",
+  "surface": "",
+  "population":"63,779"
+},
+{ 
+  "code": "BT",
+  "name": "Bhutan",
+  "continent": "Asia",
+  "capital": "Thimphu",
+  "surface": "38394", 
+  "population": "" 
+},
+{ 
+  "code": "BO",
+  "name": "Bolivia",
+  "continent": "South America",
+  "capital": "LaPaz",
+  "surface": "1098581", 
+  "population": "11,217,864" 
+},
+{ 
+  "code": "BQ",
+  "name": "Bonaire"
+},
+{ 
+  "code": "BA",
+  "name": "Bosnia and Herzegovina",
+  "continet": "Europe",
+  "capital": "Sarajevo",
+  "surface": "51,197",
+  "population": "3,871,643"
+},
+{ 
+  "code": "BW",
+  "name": "Botswana",
+  "continent": "Africa",
+  "capital": "",
+  "surface":"581,730",
+  "population":"1,914,228"
+},
+{ 
+  "code": "BV",
+  "name": "Bouvet Island"
+},
+{ 
+  "code": "BR",
+  "name": "Brazil",
+  "continet": "South America",
+  "capital": "Brasilia",
+  "surface": "8515767", 
+  "population": "209129000" 
+},
+{ 
+  "code": "IO",
+  "name": "British Indian Ocean Territory"
+},
+{ 
+  "code": "BN",
+  "name": "Brunei",
+  "continent": "Asia",
+  "capital": "",
+  "surface":"5,765",
+  "population":"417,200"
+},
+{ 
+  "code": "BG",
+  "name": "Bulgaria",
+  "continent": "Europe",
+  "capital": "Sofia",
+  "surface": "110,879",
+  "population": "6,924,716"
+},
+{ 
+  "code": "BF",
+  "name": "Burkina Faso"
+},
+{ 
+  "code": "BI",
+  "name": "Burundi",
+  "continent": "Africa",
+  "capital": "",
+  "surface":"27834",
+  "population":"8,053,574"
+},
+{ 
+  "code": "KH",
+  "name": "Cambodia",
+  "continent": "Asia",
+  "capital": "",
+  "surface":"181,035",
+  "population":"16,245,729"
+},
+{ 
+  "code": "CM",
+  "name": "Cameroon",
+  "continent": "Africa",
+  "capital": "",
+  "surface":"475,442",
+  "population":"17,463,836"
+},
+{ 
+  "code": "CA",
+  "name": "Canada",
+  "continent": "North America",
+  "capital": "Ottawa",
+  "surface": "",
+  "population":""
+},
+{ 
+  "code": "CV",
+  "name": "Cape Verde"
+},
+{ 
+  "code": "KY",
+  "name": "Cayman Islands"
+},
+{ 
+  "code": "CF",
+  "name": "Central African Republic"
+},
+{ 
+  "code": "TD",
+  "name": "Chad",
+  "continent": "Africa",
+  "capital": "",
+  "surface":"1284000",
+  "population":"13,670,084"
+},
+{ 
+  "code": "CL",
+  "name": "Chile",
+  "continent": "South America",
+  "capital": "Santiago",
+  "surface":"756,096.3",
+  "population":"17,574,003"
+},
+{ 
+  "code": "CN",
+  "name": "China",
+  "continent": "Asia",
+  "capital": "Bejing",
+  "surface":"9,596,961",
+  "population":"1,339,724,852"
+},
+{ 
+  "code": "CX",
+  "name": "Christmas Island"
+},
+{ 
+  "code": "CC",
+  "name": "Cocos (Keeling) Islands"
+},
+{ 
+  "code": "CO",
+  "name": "Colombia",
+  "continent": "South America",
+  "capital": "Bogota",
+  "surface":"1,141,748",
+  "population":"49,755,971"
+},
+{ 
+  "code": "KM",
+  "name": "Comoros"
+},
+{ 
+  "code": "CG",
+  "name": "Congo"
+},
+{ 
+  "code": "CD",
+  "name": "Democratic Republic of the Congo"
+},
+{ 
+  "code": "CK",
+  "name": "Cook Islands"
+},
+{ 
+  "code": "CR",
+  "name": "Costa Rica",
+  "continent": "North America"
+},
+{ 
+  "code": "HR",
+  "name": "Croatia",
+  "continent": "Europe",
+  "capital": "Zagreb",
+  "surface": "56,594",
+  "population": "4,470,534"
+},
+{ 
+  "code": "CU",
+  "name": "Cuba",
+  "continent": "North America",
+  "capital": "Havana",
+  "surface":"109,884",
+  "population":"11,221,060"
+},
+{ 
+  "code": "CW",
+  "name": "Curacao",
+  "continent": "North America",
+  "capital": "Willemstad",
+  "surface": "444",
+  "population": "180,337"
+
+},
+{ 
+  "code": "CY",
+  "name": "Cyprus",
+  "continent": "Europe",
+  "capital": "Nicosia",
+  "surface": "9,251",
+  "population": "1,172,458"
+},
+{ 
+  "code": "CZ",
+  "name": "Czech Republic",
+  "continent": "Europe",
+  "capital": "Prague",
+  "surface": "78,867",
+  "population": "10,538,275"
+},
+{ 
+  "code": "CI",
+  "name": "Cote d'Ivoire"
+},
+{ 
+  "code": "DK",
+  "name": "Denmark",
+  "continent": "Europe",
+  "capital": "Copenhagen",
+  "surface": "42,932",
+  "population": "5,569,077"
+},
+{ 
+  "code": "DJ",
+  "name": "Djibouti"
+},
+{ 
+  "code": "DM",
+  "name": "Dominica"
+},
+{ 
+  "code": "DO",
+  "name": "Dominican Republic"
+},
+{ 
+  "code": "EC",
+  "name": "Ecuador"
+},
+{ 
+  "code": "EG",
+  "name": "Egypt"
+},
+{ 
+  "code": "SV",
+  "name": "El Salvador"
+},
+{ 
+  "code": "GQ",
+  "name": "Equatorial Guinea"
+},
+{ 
+  "code": "ER",
+  "name": "Eritrea"
+},
+{ 
+  "code": "EE",
+  "name": "Estonia",
+  "continent": "Europe",
+  "capital": "Tallinn",
+  "surface": "45,228",
+  "population": "1,257,921"
+},
+{ 
+  "code": "ET",
+  "name": "Ethiopia"
+},
+{ 
+  "code": "FK",
+  "name": "Falkland Islands (Malvinas)"
+},
+{ 
+  "code": "FO",
+  "name": "Faroe Islands",
+  "continent": "Europe",
+  "capital": "Tórshavn",
+  "surface": "1,393.4",
+  "population": "50,498"
+},
+{ 
+  "code": "FJ",
+  "name": "Fiji"
+},
+{ 
+  "code": "FI",
+  "name": "Finland",
+  "continent": "Europe",
+  "capital": "Helsinki",
+  "surface": "338,145",
+  "population": "5,268,799"
+},
+{ 
+  "code": "FR",
+  "name": "France",
+  "continent": "Europe",
+  "capital": "Paris",
+  "surface": "643,427",
+  "population": "66,259,012"
+},
+{ 
+  "code": "GF",
+  "name": "French Guiana"
+},
+{ 
+  "code": "PF",
+  "name": "French Polynesia"
+},
+{ 
+  "code": "TF",
+  "name": "French Southern Territories"
+},
+{ 
+  "code": "GA",
+  "name": "Gabon",
+  "continet": "Africa",
+  "capital": "",
+  "surface": "",
+  "population": ""
+},
+{ 
+  "code": "GM",
+  "name": "Gambia",
+  "continet": "Africa",
+  "capital": "",
+  "surface": "",
+  "population": ""
+},
+{ 
+  "code": "GE",
+  "name": "Georgia",
+  "continent": "Asia",
+  "capital": "",
+  "surface": "",
+  "population": ""
+},
+{ 
+  "code": "DE",
+  "name": "Germany",
+  "continent": "Europe",
+  "capital": "Berlin",
+  "surface": "357,022",
+  "population": "80,996,685"
+},
+{ 
+  "code": "GH",
+  "name": "Ghana",
+  "continet": "Africa",
+  "capital": "",
+  "surface": "",
+  "population": ""
+},
+{ 
+  "code": "GI",
+  "name": "Gibraltar",
+  "continent": "Europe",
+  "capital": "Gibraltar",
+  "surface": "6.7",
+  "population": "32,194"
+},
+{ 
+  "code": "GR",
+  "name": "Greece",
+  "continent": "Europe",
+  "capital": "Athens",
+  "surface": "131,957",
+  "population": "10,816,286"
+},
+{ 
+  "code": "GL",
+  "name": "Greenland"
+},
+{ 
+  "code": "GD",
+  "name": "Grenada"
+},
+{ 
+  "code": "GP",
+  "name": "Guadeloupe"
+},
+{ 
+  "code": "GU",
+  "name": "Guam"
+},
+{ 
+  "code": "GT",
+  "name": "Guatemala",
+  "continent": "North America",
+  "capital": "",
+  "surface": "",
+  "population": ""
+},
+{ 
+  "code": "GG",
+  "name": "Guernsey"
+},
+{ 
+  "code": "GN",
+  "name": "Guinea"
+},
+{ 
+  "code": "GW",
+  "name": "Guinea-Bissau"
+},
+{ 
+  "code": "GY",
+  "name": "Guyana",
+  "continent": "South America",
+  "capital": "",
+  "surface": "",
+  "population": ""
+},
+{ 
+  "code": "HT",
+  "name": "Haiti",
+  "continent": "North America",
+  "capital": "",
+  "surface": "",
+  "population": ""
+},
+{ 
+  "code": "HM",
+  "name": "Heard Island and McDonald Mcdonald Islands"
+},
+{ 
+  "code": "VA",
+  "name": "Holy See (Vatican City State)",
+  "continent": "Europe",
+  "capital": "Vatican City",
+  "surface": "0.44",
+  "population": "842"
+},
+{ 
+  "code": "HN",
+  "name": "Honduras"
+},
+{ 
+  "code": "HK",
+  "name": "Hong Kong"
+},
+{ 
+  "code": "HU",
+  "name": "Hungary",
+  "continent": "Europe",
+  "capital": "Budapest",
+  "surface": "93,028",
+  "population": "9,919,128"
+},
+{ 
+  "code": "IS",
+  "name": "Iceland",
+  "continent": "Europe",
+  "capital": "Reykjavík",
+  "surface": "103,000",
+  "population": "317,351"
+},
+{ 
+  "code": "IN",
+  "name": "India"
+},
+{ 
+  "code": "ID",
+  "name": "Indonesia"
+},
+{ 
+  "code": "IR",
+  "name": "Iran, Islamic Republic of"
+},
+{ 
+  "code": "IQ",
+  "name": "Iraq"
+},
+{ 
+  "code": "IE",
+  "name": "Ireland",
+  "continent": "Europe",
+  "capital": "Dublin",
+  "surface": "70,273",
+  "population": "4,832,765"
+},
+{ 
+  "code": "IM",
+  "name": "Isle of Man",
+  "continent": "Europe",
+  "capital": "Douglas",
+  "surface": "572",
+  "population": "83,314"
+},
+{ 
+  "code": "IL",
+  "name": "Israel"
+},
+{ 
+  "code": "IT",
+  "name": "Italy",
+  "continent": "Rome",
+  "capital": "Tirana",
+  "surface": "301,340",
+  "population": "61,680,122"
+},
+{ 
+  "code": "JM",
+  "name": "Jamaica"
+},
+{ 
+  "code": "JP",
+  "name": "Japan"
+},
+{ 
+  "code": "JE",
+  "name": "Jersey"
+},
+{ 
+  "code": "JO",
+  "name": "Jordan"
+},
+{ 
+  "code": "KZ",
+  "name": "Kazakhstan"
+},
+{ 
+  "code": "KE",
+  "name": "Kenya"
+},
+{ 
+  "code": "KI",
+  "name": "Kiribati"
+},
+{ 
+  "code": "KP",
+  "name": "Korea, Democratic People's Republic of"
+},
+{ 
+  "code": "KR",
+  "name": "Korea, Republic of"
+},
+{ 
+  "code": "KW",
+  "name": "Kuwait"
+},
+{ 
+  "code": "KG",
+  "name": "Kyrgyzstan"
+},
+{ 
+  "code": "LA",
+  "name": "Lao People's Democratic Republic"
+},
+{ 
+  "code": "LV",
+  "name": "Latvia",
+  "continent": "Europe",
+  "capital": "Riga",
+  "surface": "64,589",
+  "population": "2,165,165"
+},
+{ 
+  "code": "LB",
+  "name": "Lebanon"
+},
+{ 
+  "code": "LS",
+  "name": "Lesotho"
+},
+{ 
+  "code": "LR",
+  "name": "Liberia"
+},
+{ 
+  "code": "LY",
+  "name": "Libya"
+},
+{ 
+  "code": "LI",
+  "name": "Liechtenstein",
+  "continent": "Europe",
+  "capital": "Vaduz",
+  "surface": "160",
+  "population": "37,313"
+},
+{ 
+  "code": "LT",
+  "name": "Lithuania",
+  "continent": "Europe",
+  "capital": "Vilnius",
+  "surface": "65,300",
+  "population": "2,943,472"
+},
+{ 
+  "code": "LU",
+  "name": "Luxembourg",
+  "continent": "Europe",
+  "capital": "Luxembourg",
+  "surface": "2,586",
+  "population": "520,672"
+},
+{ 
+  "code": "MO",
+  "name": "Macao"
+},
+{ 
+  "code": "MK",
+  "name": "Macedonia, the Former Yugoslav Republic of",
+  "continent": "Europe",
+  "capital": "Skopje",
+  "surface": "25,713",
+  "population": "2,091,719"
+},
+{ 
+  "code": "MG",
+  "name": "Madagascar"
+},
+{ 
+  "code": "MW",
+  "name": "Malawi"
+},
+{ 
+  "code": "MY",
+  "name": "Malaysia"
+},
+{ 
+  "code": "MV",
+  "name": "Maldives"
+},
+{ 
+  "code": "ML",
+  "name": "Mali"
+},
+{ 
+  "code": "MT",
+  "name": "Malta",
+  "continent": "Europe",
+  "capital": "Valletta",
+  "surface": "316",
+  "population": "412,655"
+},
+{ 
+  "code": "MH",
+  "name": "Marshall Islands"
+},
+{ 
+  "code": "MQ",
+  "name": "Martinique"
+},
+{ 
+  "code": "MR",
+  "name": "Mauritania"
+},
+{ 
+  "code": "MU",
+  "name": "Mauritius"
+},
+{ 
+  "code": "YT",
+  "name": "Mayotte"
+},
+{ 
+  "code": "MX",
+  "name": "Mexico",
+  "capital": "MexicoCity",
+  "surface": "1972550", 
+  "population": "123675325"
+},
+{ 
+  "code": "FM",
+  "name": "Micronesia, Federated States of"
+},
+{ 
+  "code": "MD",
+  "name": "Moldova, Republic of",
+  "continent": "Europe",
+  "capital": "Chisinau",
+  "surface": "33,851",
+  "population": "3,583,288"
+},
+{ 
+  "code": "MC",
+  "name": "Monaco",
+  "continent": "Europe",
+  "capital": "Monaco",
+  "surface": "2",
+  "population": "30,508"
+},
+{ 
+  "code": "MN",
+  "name": "Mongolia"
+},
+{ 
+  "code": "ME",
+  "name": "Montenegro",
+  "continent": "Europe",
+  "capital": "Podgotica",
+  "surface": "13,812",
+  "population": "650,036"
+},
+{ 
+  "code": "MS",
+  "name": "Montserrat"
+},
+{ 
+  "code": "MA",
+  "name": "Morocco"
+},
+{ 
+  "code": "MZ",
+  "name": "Mozambique"
+},
+{ 
+  "code": "MM",
+  "name": "Myanmar"
+},
+{ 
+  "code": "NA",
+  "name": "Namibia"
+},
+{ 
+  "code": "NR",
+  "name": "Nauru"
+},
+{ 
+  "code": "NP",
+  "name": "Nepal"
+},
+{ 
+  "code": "NL",
+  "name": "Netherlands",
+  "continent": "Europe",
+  "capital": "Amsterdam",
+  "surface": "41,543",
+  "population": "16,877,351"
+},
+{ 
+  "code": "NC",
+  "name": "New Caledonia"
+},
+{ 
+  "code": "NZ",
+  "name": "New Zealand"
+},
+{ 
+  "code": "NI",
+  "name": "Nicaragua"
+},
+{ 
+  "code": "NE",
+  "name": "Niger"
+},
+{ 
+  "code": "NG",
+  "name": "Nigeria"
+},
+{ 
+  "code": "NU",
+  "name": "Niue"
+},
+{ 
+  "code": "NF",
+  "name": "Norfolk Island"
+},
+{ 
+  "code": "MP",
+  "name": "Northern Mariana Islands"
+},
+{ 
+  "code": "NO",
+  "name": "Norway",
+  "continent": "Europe",
+  "capital": "Oslo",
+  "surface": " 323,802",
+  "population": "5,147,792"
+},
+{ 
+  "code": "OM",
+  "name": "Oman"
+},
+{ 
+  "code": "PK",
+  "name": "Pakistan"
+},
+{ 
+  "code": "PW",
+  "name": "Palau"
+},
+{ 
+  "code": "PS",
+  "name": "Palestine, State of"
+},
+{ 
+  "code": "PA",
+  "name": "Panama"
+},
+{ 
+  "code": "PG",
+  "name": "Papua New Guinea"
+},
+{ 
+  "code": "PY",
+  "name": "Paraguay"
+},
+{ 
+  "code": "PE",
+  "name": "Peru"
+},
+{ 
+  "code": "PH",
+  "name": "Philippines"
+},
+{ 
+  "code": "PN",
+  "name": "Pitcairn"
+},
+{ 
+  "code": "PL",
+  "name": "Poland",
+  "continent": "Europe",
+  "capital": "Warsaw",
+  "surface": "312,685",
+  "population": "38,346,279"
+},
+{ 
+  "code": "PT",
+  "name": "Portugal",
+  "continent": "Europe",
+  "capital": "Lisbon",
+  "surface": "92,090",
+  "population": "10,427,301"
+},
+{ 
+  "code": "PR",
+  "name": "Puerto Rico"
+},
+{ 
+  "code": "QA",
+  "name": "Qatar"
+},
+{ 
+  "code": "RO",
+  "name": "Romania",
+  "continent": "Europe",
+  "capital": "Bucharest",
+  "surface": "238,391",
+  "population": "21,729,871"
+},
+{ 
+  "code": "RU",
+  "name": "Russian Federation",
+  "continent": "Europe",
+  "capital": "Moscow",
+  "surface": "17,098,242",
+  "population": "146,267,288"
+},
+{ 
+  "code": "RW",
+  "name": "Rwanda"
+},
+{ 
+  "code": "RE",
+  "name": "Reunion"
+},
+{ 
+  "code": "BL",
+  "name": "Saint Barthelemy"
+},
+{ 
+  "code": "SH",
+  "name": "Saint Helena"
+},
+{ 
+  "code": "KN",
+  "name": "Saint Kitts and Nevis"
+},
+{ 
+  "code": "LC",
+  "name": "Saint Lucia"
+},
+{ 
+  "code": "MF",
+  "name": "Saint Martin (French part)"
+},
+{ 
+  "code": "PM",
+  "name": "Saint Pierre and Miquelon"
+},
+{ 
+  "code": "VC",
+  "name": "Saint Vincent and the Grenadines"
+},
+{ 
+  "code": "WS",
+  "name": "Samoa"
+},
+{ 
+  "code": "SM",
+  "name": "San Marino",
+  "continent": "Europe",
+  "capital": "San Marino",
+  "surface": "61",
+  "population": "32,742"
+},
+{ 
+  "code": "ST",
+  "name": "Sao Tome and Principe"
+},
+{ 
+  "code": "SA",
+  "name": "Saudi Arabia"
+},
+{ 
+  "code": "SN",
+  "name": "Senegal"
+},
+{ 
+  "code": "RS",
+  "name": "Serbia",
+  "continent": "Europe",
+  "capital": "Belgrade",
+  "surface": "88,361",
+  "population": "7,209,764"
+},
+{ 
+  "code": "SC",
+  "name": "Seychelles"
+},
+{ 
+  "code": "SL",
+  "name": "Sierra Leone"
+},
+{ 
+  "code": "SG",
+  "name": "Singapore"
+},
+{ 
+  "code": "SX",
+  "name": "Sint Maarten (Dutch part)"
+},
+{ 
+  "code": "SK",
+  "name": "Slovakia",
+  "continent": "Europe",
+  "capital": "Bratislava",
+  "surface": "49,035",
+  "population": "5,443,583"
+},
+{ 
+  "code": "SI",
+  "name": "Slovenia",
+  "continent": "Europe",
+  "capital": "Ljubljana",
+  "surface": "20,273",
+  "population": "1,988,292"
+},
+{ 
+  "code": "SB",
+  "name": "Solomon Islands"
+},
+{ 
+  "code": "SO",
+  "name": "Somalia"
+},
+{ 
+  "code": "ZA",
+  "name": "South Africa"
+},
+{ 
+  "code": "GS",
+  "name": "South Georgia and the South Sandwich Islands"
+},
+{ 
+  "code": "SS",
+  "name": "South Sudan"
+},
+{ 
+  "code": "ES",
+  "name": "Spain",
+  "continent": "Europe",
+  "capital": "Madrid",
+  "surface": "505,370",
+  "population": "47,737,941"
+},
+{ 
+  "code": "LK",
+  "name": "Sri Lanka"
+},
+{ 
+  "code": "SD",
+  "name": "Sudan"
+},
+{ 
+  "code": "SR",
+  "name": "Suriname"
+},
+{ 
+  "code": "SJ",
+  "name": "Svalbard and Jan Mayen",
+  "continent": "Europe",
+  "capital": "Tirana",
+  "surface": "",
+  "population": ""
+},
+{ 
+  "code": "SZ",
+  "name": "Swaziland"
+},
+{ 
+  "code": "SE",
+  "name": "Sweden",
+  "continent": "Europe",
+  "capital": "Stockholm",
+  "surface": "450,295",
+  "population": "9,723,809"
+},
+{ 
+  "code": "CH",
+  "name": "Switzerland",
+  "continent": "Europe",
+  "capital": "Bern",
+  "surface": "41,277",
+  "population": "8,061,516"
+},
+{ 
+  "code": "SY",
+  "name": "Syrian Arab Republic"
+},
+{ 
+  "code": "TW",
+  "name": "Taiwan, Province of China"
+},
+{ 
+  "code": "TJ",
+  "name": "Tajikistan"
+},
+{ 
+  "code": "TZ",
+  "name": "United Republic of Tanzania"
+},
+{ 
+  "code": "TH",
+  "name": "Thailand"
+},
+{ 
+  "code": "TL",
+  "name": "Timor-Leste"
+},
+{ 
+  "code": "TG",
+  "name": "Togo"
+},
+{ 
+  "code": "TK",
+  "name": "Tokelau"
+},
+{ 
+  "code": "TO",
+  "name": "Tonga"
+},
+{ 
+  "code": "TT",
+  "name": "Trinidad and Tobago"
+},
+{ 
+  "code": "TN",
+  "name": "Tunisia"
+},
+{ 
+  "code": "TR",
+  "name": "Turkey"
+},
+{ 
+  "code": "TM",
+  "name": "Turkmenistan"
+},
+{ 
+  "code": "TC",
+  "name": "Turks and Caicos Islands"
+},
+{ 
+  "code": "TV",
+  "name": "Tuvalu"
+},
+{ 
+  "code": "UG",
+  "name": "Uganda"
+},
+{ 
+  "code": "UA",
+  "name": "Ukraine",
+  "continent": "Europe",
+  "capital": "Kiev",
+  "surface": "603,550",
+  "population": "44,291,413"
+},
+{ 
+  "code": "AE",
+  "name": "United Arab Emirates"
+},
+{ 
+  "code": "GB",
+  "name": "United Kingdom",
+  "continent": "Europe",
+  "capital": "London",
+  "surface": "243,610",
+  "population": "66,573,504"
+},
+{ 
+  "code": "US",
+  "name": "United States",
+  "continent": "North America",
+  "capital": "Washington DC",
+  "surface": "",
+  "population": ""
+},
+{ 
+  "code": "UM",
+  "name": "United States Minor Outlying Islands"
+},
+{ 
+  "code": "UY",
+  "name": "Uruguay"
+},
+{ 
+  "code": "UZ",
+  "name": "Uzbekistan"
+},
+{ 
+  "code": "VU",
+  "name": "Vanuatu"
+},
+{ 
+  "code": "VE",
+  "name": "Venezuela" 
+},
+{ 
+  "code": "VN",
+  "name": "Viet Nam"
+},
+{ 
+  "code": "VG",
+  "name": "British Virgin Islands"
+},
+{ 
+  "code": "VI",
+  "name": "US Virgin Islands"
+},
+{ 
+  "code": "WF",
+  "name": "Wallis and Futuna"
+},
+{ 
+  "code": "EH",
+  "name": "Western Sahara"
+},
+{ 
+  "code": "YE",
+  "name": "Yemen"
+},
+{ 
+  "code": "ZM",
+  "name": "Zambia"
+},
+{ 
+  "code": "ZW",
+  "name": "Zimbabwe" 
+}
+]}

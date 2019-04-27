@@ -1,0 +1,175 @@
+/*styling the app */
+@import url('https://fonts.googleapis.com/css?family=Dosis|Quicksand');
+
+body {
+	/*background-color: white;*/
+	background: linear-gradient(90deg, ghostwhite, #e6f7ff);
+	font-size: 14px;
+	font-family: 'Dosis', 'Arial', sans-serif;
+}
+
+/* ### Style for navigation bar ### */
+
+.nav {
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+	margin: 0 -1em;
+	border-bottom: solid 2px darkorange; 
+	box-shadow: 6px 6px 4px #888888;
+	background-color: white;
+	z-index: 10; 			
+}
+
+.icondiv {
+	float: left;
+}
+
+.icon {
+	vertical-align: bottom;
+}
+
+.navbar {
+	/*margin: 0 auto;*/
+	/*display: inline-block;*/
+	text-align: center;
+}
+
+.nav-item {
+	display: inline-block;
+	margin: 10px;
+	padding: 8px 8px;
+	font-size: 1.5em;
+}
+
+.nav-link {
+	color: orange;
+	text-decoration: none;	
+}
+
+.nav-link:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+/* ### Style for the title of the homepage ### */
+
+.title {
+	margin: 80px 0 20px 0;
+	font-size: 2em;
+	font-weight: bold;
+	text-align: center;
+	letter-spacing: 12px;
+	word-spacing: 5px;
+	text-shadow: 2px 2px 4px rgba(0, 0, 128, 0.5);
+}
+
+/* ### Style for the aside menu ### */
+
+aside {
+	border-right: 4px solid darkorange;
+	margin-right: 3%;
+	max-width: 15%;
+	float: left;
+	font-family: 'Quicksand', 'Arial', sans-serif;
+
+}
+
+.list-item {
+	padding: 10px 0;
+	border-bottom: 1.7px solid dodgerblue;
+	/*cursor: pointer;	*/
+
+} 
+
+.list-item:hover {
+	background-color: powderblue;
+}
+
+
+
+/* .menu-list:first-child {
+	border-top: 1.7px solid darkorange;
+} 
+
+ .menu-list:last-child {
+	border-bottom: 1.7px solid darkorange;
+} */
+
+.item1 {
+	border-top: 1.7px solid darkorange;
+}
+
+.item6 {
+	border-bottom: 1.7px solid darkorange;
+} 
+
+.list-link {
+	text-decoration: none;
+	color: dodgerblue;
+	font-size: 1.2em;
+	
+}
+
+.map {
+	float: left;
+	max-width: 81%;
+}
+
+.map img {
+	display: block;
+	margin: 0 auto;
+	width: 90%;
+	height: 90%;
+}
+
+.table {
+	margin: 10px auto;
+	border: 2px solid orange;
+	/*box-shadow: 6px 6px 8px #8080ff;*/
+}
+
+td, th {
+	border: 2px solid orange;
+	padding: 6px 10px;
+	letter-spacing: 6px;
+
+}
+
+sup {
+	vertical-align: super;
+	font-size: 0.8em;
+}
+
+.table-header{
+	font-size: 1.3em;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+
+.table-cell {
+	vertical-align: middle;
+	text-align: center;
+	font-size: 1.2em;
+	color: slateblue;
+
+}
+
+.footer {
+	clear: left;
+	margin-top: 3em;
+	background-color: #4da6ff;
+	margin: 0 -1em;
+}
+
+.footer p {
+	padding: 12px;
+	text-align: center;
+	font-size: 1.2em;
+	color: white;
+}
+
+
+
+
