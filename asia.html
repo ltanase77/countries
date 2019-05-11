@@ -1,30 +1,39 @@
+const
 <!Doctype html>
- <html lang="en">
-    <head> 
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="author" content="Matei Tanase">
-        <meta name="description" content="small web app about countries around the world">
-        <title>Asia</title>
-        <link rel="import" href="header.html" />
-        <link rel="stylesheet" type="text/css" href="css/reset.css">
-        <link href="css/styles.css" rel="stylesheet" type="text/css" />
-    </head>
+<html lang="en">
 
-   	<body>
-   		<script>
-    		var link = document.querySelector('link[rel="import"]');
-    		var content = link.import;
-    		// Grab DOM from warning.html's document.
-    		var el = content.querySelector('.nav');
-    		document.body.appendChild(el.cloneNode(true));
-  		</script>
-  		<h1 class="title">Asia</h1>
-  		<main class="content">
-  			
-  		</main>
-  		<div class="footer">
-            <p>Copyright &copy; 2018 | Developed by: Tănase Matei</p>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Matei Tanase">
+    <meta name="description" content="small web app about countries around the world">
+    <title>Asia</title>
+    <link rel="import" href="header.html" />
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <link href="css/styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <nav class="nav">
+        <div class="icondiv">
+            <img class="icon" src="img/earth.png" widht="50" height="50" alt="earth icon" />
         </div>
-        <script src="javascript/main.js"></script>
-   	</body>
+        <ul class="navbar">
+            <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="africa.html">Africa</a></li>
+            <li class="nav-item"><a class="nav-link" href="asia.html">Asia</a></li>
+            <li class="nav-item"><a class="nav-link" href="europe.html">Europe</a></li>
+            <li class="nav-item"><a class="nav-link" href="northern-america.html">North America</a></li>
+            <li class="nav-item"><a class="nav-link" href="south-america.html">South America</a></li>
+            <li class="nav-item"><a class="nav-link" href="oceania.html">Australia and Oceania</a></li>
+        </ul>
+    </nav>
+    <h1 class="title">Asia</h1>
+    <main class="content">
+
+    </main>
+    <div class="footer">
+        <p>Copyright &copy; 2018 | Developed by: Tănase Matei</p>
+    </div>
+    <script src="javascript/main.js"></script>
+</body>
